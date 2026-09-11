@@ -5,3 +5,4 @@ title: "Michael Phillips"
 This is a Quarto website.
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+IMG_0815.jpeg
