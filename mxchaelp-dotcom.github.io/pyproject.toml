@@ -1,0 +1,21 @@
+[project]
+name = "mxchaelp-dotcom-site"
+version = "0.0.1"
+description = ""
+authors = [
+    {name = "Michael Phillips",email = "mxchaelp@bu.edu"}
+]
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = [
+    "numpy (<2.1)",
+    "pandas (<2.3)",
+    "matplotlib (<3.10)",
+    "seaborn (<0.14)",
+    "plotly (<6)"
+]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
