@@ -1,0 +1,86 @@
+[
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV",
+    "section": "",
+    "text": "Multidisciplinary professional with a growing focus on business analytics, strategy, and technology.\nCurrently pursuing graduate study in Applied Business Analytics at Boston University, with interests in applying data-driven thinking within global, creative, and brand-focused organizations.\n\n\n\nBusiness Analytics\nData Visualization\nStrategy\nCreative Industries\nGlobal Business\nTechnology\n\n\n\n\nPython · R · SQL · Excel · SAP · Quarto · Git/GitHub\n\n\n\nDownload CV (PDF){.btn .btn-primary download}"
+  },
+  {
+    "objectID": "cv.html#areas-of-focus",
+    "href": "cv.html#areas-of-focus",
+    "title": "CV",
+    "section": "",
+    "text": "Business Analytics\nData Visualization\nStrategy\nCreative Industries\nGlobal Business\nTechnology"
+  },
+  {
+    "objectID": "cv.html#technical-skills",
+    "href": "cv.html#technical-skills",
+    "title": "CV",
+    "section": "",
+    "text": "Python · R · SQL · Excel · SAP · Quarto · Git/GitHub"
+  },
+  {
+    "objectID": "cv.html#cv",
+    "href": "cv.html#cv",
+    "title": "CV",
+    "section": "",
+    "text": "Download CV (PDF){.btn .btn-primary download}"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Michael Phillips",
+    "section": "",
+    "text": "Welcome to my portfolio.\nI’m currently pursuing graduate study in Applied Business Analytics at Boston University, developing skills across data analysis, visualization, and technology.\nThis site highlights selected projects, technical skills, and areas of professional interest."
+  },
+  {
+    "objectID": "index.html#focus-areas",
+    "href": "index.html#focus-areas",
+    "title": "Michael Phillips",
+    "section": "Focus Areas",
+    "text": "Focus Areas\nBusiness Analytics\nUsing data to understand problems and support decision-making.\nData & Technology\nWorking with tools including Python, R, SQL, and cloud-based technologies.\nGlobal & Creative Industries\nInterested in applying analytical thinking within international, creative, and brand-driven organizations."
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Michael Phillips\nNew York City\nFor professional inquiries and opportunities, connect with me through LinkedIn.\n\n\nLinkedIn · GitHub"
+  },
+  {
+    "objectID": "contact.html#professional-links",
+    "href": "contact.html#professional-links",
+    "title": "Contact",
+    "section": "",
+    "text": "LinkedIn · GitHub"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "A selection of academic work completed through my graduate studies in Applied Business Analytics.\n\n\nApplied statistical and analytical methods to explore business questions, interpret data, and communicate findings through clear visualizations.\nTools: R · Excel · Data Visualization\n\n\n\nWorked with large-scale datasets and cloud computing environments to develop experience with data processing, querying, and visualization.\nTools: Python · Spark · SQL · AWS · Quarto\n\n\n\nExplored quantitative approaches to understanding markets, customer behavior, and data-driven business decision-making.\nTools: R · Statistical Analysis · Data Visualization"
+  },
+  {
+    "objectID": "projects.html#business-analytics",
+    "href": "projects.html#business-analytics",
+    "title": "Projects",
+    "section": "",
+    "text": "Applied statistical and analytical methods to explore business questions, interpret data, and communicate findings through clear visualizations.\nTools: R · Excel · Data Visualization"
+  },
+  {
+    "objectID": "projects.html#big-data-cloud-analytics",
+    "href": "projects.html#big-data-cloud-analytics",
+    "title": "Projects",
+    "section": "",
+    "text": "Worked with large-scale datasets and cloud computing environments to develop experience with data processing, querying, and visualization.\nTools: Python · Spark · SQL · AWS · Quarto"
+  },
+  {
+    "objectID": "projects.html#marketing-analytics",
+    "href": "projects.html#marketing-analytics",
+    "title": "Projects",
+    "section": "",
+    "text": "Explored quantitative approaches to understanding markets, customer behavior, and data-driven business decision-making.\nTools: R · Statistical Analysis · Data Visualization"
+  }
+]
