@@ -82,5 +82,26 @@
     "title": "Projects",
     "section": "",
     "text": "Explored quantitative approaches to understanding markets, customer behavior, and data-driven business decision-making.\nTools: R · Statistical Analysis · Data Visualization"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "I’m Michael Phillips, a multidisciplinary professional with a growing focus on business analytics, strategy, and technology.\nI’m currently pursuing graduate study in Applied Business Analytics at Boston University, where I’m developing skills in data analysis, visualization, and cloud-based technologies.\n\n\nI’m particularly interested in the intersection of business, technology, data, and creative industries. I’m drawn to work that combines analytical thinking with creativity and a broader global perspective.\n\n\n\nMy goal is to build a career where I can use data and strategy to solve business problems while working within global, creative, and brand-focused organizations.\nI am continuing to develop my skills in Python, R, SQL, data visualization, and cloud technologies as I build toward that goal."
+  },
+  {
+    "objectID": "about.html#interests",
+    "href": "about.html#interests",
+    "title": "About",
+    "section": "",
+    "text": "I’m particularly interested in the intersection of business, technology, data, and creative industries. I’m drawn to work that combines analytical thinking with creativity and a broader global perspective."
+  },
+  {
+    "objectID": "about.html#career-goals",
+    "href": "about.html#career-goals",
+    "title": "About",
+    "section": "",
+    "text": "My goal is to build a career where I can use data and strategy to solve business problems while working within global, creative, and brand-focused organizations.\nI am continuing to develop my skills in Python, R, SQL, data visualization, and cloud technologies as I build toward that goal."
   }
 ]
