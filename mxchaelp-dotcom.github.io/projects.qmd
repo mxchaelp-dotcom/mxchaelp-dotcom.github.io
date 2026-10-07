@@ -1,0 +1,25 @@
+---
+title: "Projects"
+---
+
+# Selected Work
+
+A selection of academic work completed through my graduate studies in Applied Business Analytics.
+
+## Business Analytics
+
+Applied statistical and analytical methods to explore business questions, interpret data, and communicate findings through clear visualizations.
+
+**Tools:** R · Excel · Data Visualization
+
+## Big Data & Cloud Analytics
+
+Worked with large-scale datasets and cloud computing environments to develop experience with data processing, querying, and visualization.
+
+**Tools:** Python · Spark · SQL · AWS · Quarto
+
+## Marketing Analytics
+
+Explored quantitative approaches to understanding markets, customer behavior, and data-driven business decision-making.
+
+**Tools:** R · Statistical Analysis · Data Visualization

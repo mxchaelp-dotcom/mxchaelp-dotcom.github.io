@@ -1,0 +1,25 @@
+---
+title: "CV"
+---
+
+# Professional Profile
+
+Multidisciplinary professional with a growing focus on business analytics, strategy, and technology.
+
+Currently pursuing graduate study in Applied Business Analytics at Boston University, with interests in applying data-driven thinking within global, creative, and brand-focused organizations.
+
+## Areas of Focus
+
+- Business Analytics
+- Data Visualization
+- Strategy
+- Creative Industries
+- Global Business
+- Technology
+
+## Technical Skills
+
+Python · R · SQL · Excel · SAP · Quarto · Git/GitHub
+
+## CV
+[Download CV (PDF)](Michael_Phillips_Sample_CV_Revised.pdf){.btn .btn-primary download}

@@ -2,7 +2,21 @@
 title: "Michael Phillips"
 ---
 
-This is a Quarto website.
+### Business Analytics · Strategy · Creative Industries
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-IMG_0815.jpeg
+Welcome to my portfolio.
+
+I'm currently pursuing graduate study in Applied Business Analytics at Boston University, developing skills across data analysis, visualization, and technology.
+
+This site highlights selected projects, technical skills, and areas of professional interest.
+
+## Focus Areas
+
+**Business Analytics**  
+Using data to understand problems and support decision-making.
+
+**Data & Technology**  
+Working with tools including Python, R, SQL, and cloud-based technologies.
+
+**Global & Creative Industries**  
+Interested in applying analytical thinking within international, creative, and brand-driven organizations.
